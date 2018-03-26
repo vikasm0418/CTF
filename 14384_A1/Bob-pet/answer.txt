@@ -1,0 +1,2 @@
+This question is almost similar to 3_syfur.Only some change in script was required i.e we needed to first listen until program calls "Bob pet Name:" and then input our string.And, also the adress we need to overwrite with should be getflag() here.
+Note : for detail explaination look at 3_syfur/answwer.txt.

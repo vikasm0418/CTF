@@ -1,0 +1,2 @@
+Capturing the flag here involved analyzing the dissassemble code and realizing that it compares the input password with a string and if password mathces then it opens the flag.txt file.
+So we just need to check the password string from registers using gdb and breaking it at cmp function.

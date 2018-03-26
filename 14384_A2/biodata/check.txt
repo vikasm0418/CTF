@@ -1,0 +1,4 @@
+cat flag.txt 0xffffdef1
+exit 0xf7e377b0
+system 0xf7e43940
+

@@ -1,0 +1,1 @@
+Here, we had to do overflow to the buffer variable such the return address gets overwritten with address of function give_shell(). Other argumnet passed was /bin/sh , so when system(/bin/sh) got executed we got a shell and obtained flag.txt since, now we were running as I have no name! user.

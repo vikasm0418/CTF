@@ -1,0 +1,1 @@
+Here, we had to define two environment variable. One was for user id 'USER'(in my case vikasm) with some random value and other for 'HACK' this should be either cat flag.txt or open shell using /bin/bash. This produces the required flag.

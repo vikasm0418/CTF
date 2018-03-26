@@ -1,0 +1,1 @@
+Here , the given JPG was corrupt since the signatures of the image where that of PNG file. Realized this by using hexedit command and looking at the dissassemble file. Now tried to change the format of JPG to PNG but that didn't workout so changed the PNG signature to that of JPG by taking required signature from other proper JPG files.

@@ -1,0 +1,3 @@
+Here, return to libc attack worked fine. we had to do overflow and overwriting with address of system then exit and passing argument check(a envrionment variable we defined).
+	check = cat /home/vikasm/ctf2/biodata/flag.txt
+We had to pass the appropriate address in our input string. Change of permissions of all folders was also required. This resulted in required flag. check.txt files has the required address.
