@@ -1,0 +1,1 @@
+This was a Windows 64bit crash dump/full dump file. Used a File viewer Plus windows software to analyze the file. Now it was given that email_id was flag.iitk.ac.in so the flag data should be next to it since it was password. Searched and obtained the required flag. 

@@ -1,0 +1,1 @@
+stegsolve helped to analyze image here. Opened it viewed across different planes and found the flag in green plane-1(also visible in red-plane)
